@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabhu-1024 aka Prabhu Jyoti Palai
-- 👀 I'm interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 👀 I'm interested in learning Data Structures and Algorithms and improve my problem solving skills
+- 🌱 I’m currently C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can Email me on prabhujpalai0209@gmail.com  
